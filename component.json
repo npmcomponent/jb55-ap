@@ -2,11 +2,9 @@
   "name": "ap",
   "repo": "jb55/ap",
   "description": "Apply function, otherwise return value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [],
-  "dependencies": {
-    "component/type": "*"
-  },
+  "dependencies": {},
   "development": {},
   "license": "MIT",
   "scripts": [ "index.js" ]
